@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Расширения Java/javax/jaxb-api-2.3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/jackson/jackson-annotations-2.11.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Расширения Java/jackson/jackson-databind-2.11.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/jackson/jackson-core-2.11.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,34 +28,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Расширения Java/jackson/jackson-core-2.11.2.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Расширения Java/jackson/jackson-annotations-2.11.2.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Расширения Java/javax/activation-1.1.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../Расширения Java/javax/jaxb-runtime-3.0.0-M4.jar!/" />
+          <root url="jar://$MODULE_DIR$/jackson/jackson-databind-2.11.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
