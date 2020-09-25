@@ -1,4 +1,4 @@
-package example;
+package person;
 
 public enum Gender {
     MALE, FEMALE, NONE;

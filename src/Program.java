@@ -1,4 +1,4 @@
-import example.*;
+import person.*;
 import serialization.*;
 import java.io.*;
 
